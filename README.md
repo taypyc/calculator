@@ -6,11 +6,9 @@
 
 A sleek, web-based calculator application built using React. This project provides a fully functional calculator interface for performing basic arithmetic operations. It utilizes `big.js` under the hood to handle arbitrary-precision decimal arithmetic, ensuring accurate results and preventing common JavaScript floating-point errors.
 
-The application was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Live Demo
 
-Try out the application live here: [taypyc.github.io/calculator](https://taypyc.github.io/calculator/)
+Try out the application live: [here](https://calc-react.vercel.app)
 
 ## Getting Started
 
@@ -23,6 +21,7 @@ You need to have Node.js and npm (Node Package Manager) installed on your system
 ### Installation
 
 1. Navigate to the project directory:
+
    ```bash
    cd calculator
    ```
@@ -39,6 +38,7 @@ To start the development server and run the application locally:
 ```bash
 npm start
 ```
+
 This will run the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will reload if you make edits.
 
 ### Running Tests
