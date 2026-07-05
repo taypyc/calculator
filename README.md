@@ -8,7 +8,7 @@ A sleek, web-based calculator application built using React. This project provid
 
 ## Live Demo
 
-Try out the application live: [here](https://calc-react.vercel.app)
+Try out the application live [here](https://calc-react.vercel.app)
 
 ## Getting Started
 
