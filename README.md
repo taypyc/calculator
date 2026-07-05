@@ -1,6 +1,6 @@
 # React Calculator
 
-<img src="Logotype primary.png" width="60%" height="60%" alt="Calculator Logotype" />
+<img src="calculator.png" width="60%" height="60%" alt="Calculator Logotype" />
 
 ## Description
 
